@@ -1,6 +1,6 @@
 # BOSE SOUNDTOUCH
 
-![Screenshot](main.jpg)
+![Screenshot](https://cdn.shopify.com/s/files/1/2263/3215/products/ST20_800x.jpg?v=1514883577)
  
 ### 'Hackers can remotely control thousands of Sonos and Bose speakers'
 ##### 'Security experts at Trend Micro have demonstrated that certain models of Sonos and Bose speakers are affected by vulnerabilities that could allow attackers to hijack them.'
